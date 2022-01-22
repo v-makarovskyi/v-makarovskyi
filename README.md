@@ -2,6 +2,7 @@
 
 I'm junior front-end developer. I will be happy to take part in interesting projects!
 
+
 ### 📫 How to reach me:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -29,3 +30,7 @@ In development, I really enjoy creating beautiful user interfaces with interesti
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-makarovskyi)](https://github.com/anuraghazra/github-readme-stats)
