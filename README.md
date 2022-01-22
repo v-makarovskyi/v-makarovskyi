@@ -31,6 +31,4 @@ In development, I really enjoy creating beautiful user interfaces with interesti
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-makarovskyi)](https://github.com/anuraghazra/github-readme-stats)
