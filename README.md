@@ -8,6 +8,7 @@ I'm junior front-end developer. I will be happy to take part in interesting proj
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+
 ### Development 
 
 In development, I really enjoy creating beautiful user interfaces with interesting functionality, especially using React🚀 to render content very quickly without reloading the page.
