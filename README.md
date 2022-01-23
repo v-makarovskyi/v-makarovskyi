@@ -1,4 +1,6 @@
-### Hi there  👋  I'm Volodymyr Makarovskyi
+<h3 align='center'>
+  Hi there 👋 I'm Volodymyr Makarovskyi
+</h3>
 
 I'm junior front-end developer. I will be happy to take part in interesting projects!
 
