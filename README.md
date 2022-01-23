@@ -6,11 +6,9 @@ I'm junior front-end developer. I will be happy to take part in interesting proj
 
 
 ### 📫 How to reach me:
-
+<a href='https://t.me/Makarovskyi'><img align='left' src='https://user-images.githubusercontent.com/95641884/150675279-99fe82e3-896b-43f5-9f67-3e25970bdb94.png' alt='telegram' width='35px'/></a>
+<a href="https://ru.linkedin.com/"><img align='left' src ='https://user-images.githubusercontent.com/95641884/150675095-2e8e967f-2a14-413d-b870-21afd707b58d.png' alt='linkedin' width='35px'/></a>
 <a href="mailto:makarovskyi.v@gmail.com"><img src ='https://user-images.githubusercontent.com/95641884/150674766-be246e51-4970-4caf-b60a-b9cbc8fdd8a8.png' alt='gmail' width='35px'/></a>  
-<a href="https://ru.linkedin.com/"><img src ='https://user-images.githubusercontent.com/95641884/150675095-2e8e967f-2a14-413d-b870-21afd707b58d.png' alt='linkedin' width='35px'/></a>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Makarovskyi)
-
 
 ### Development 
 
