@@ -16,6 +16,8 @@ In development, I really enjoy creating beautiful user interfaces with interesti
 
 I own MERN technology. I actively study various options for implementing the UI.
 
+🖥 I’m looking to collaborate on React Projects
+
 
 ### Skills
 
