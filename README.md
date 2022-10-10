@@ -17,8 +17,6 @@ During the development process, I actively study the Python programming language
 I also have front-end development skills, namely React / Redux, HTML, CSS/SCSS.
 I also use JavaScript in my work.
 
-🖥 I’m looking to collaborate on React Projects
-
 
 ### Skills
 
