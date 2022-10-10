@@ -12,9 +12,10 @@ I'm junior front-end developer. I will be happy to take part in interesting proj
 
 ### Development 
 
-In development, I really enjoy creating beautiful user interfaces with interesting functionality, especially using React🚀 to render content very quickly without reloading the page.
-
-I own MERN technology. I actively study various options for implementing the UI.
+Python/Django junior developer.
+During the development process, I actively study the Python programming language.
+I also have front-end development skills, namely React / Redux, HTML, CSS/SCSS.
+I also use JavaScript in my work.
 
 🖥 I’m looking to collaborate on React Projects
 
