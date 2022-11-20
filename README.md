@@ -2,7 +2,7 @@
   Hi there 👋 I'm Volodymyr Makarovskyi
 </h3>
 
-I'm junior front-end developer. I will be happy to take part in interesting projects!
+I am a junior python/django developer from Kiev (Ukraine)
 
 
 ### 📫 How to reach me:
@@ -12,11 +12,10 @@ I'm junior front-end developer. I will be happy to take part in interesting proj
 
 ### Development 
 
-Python/Django junior developer.
-During the development process, I actively study the Python programming language.
-I also have front-end development skills, namely React / Redux, HTML, CSS/SCSS.
-I also use JavaScript in my work.
-
+I am a junior python/django developer from Kiev (Ukraine)
+I actively study and practice Python programming language and Django framework.
+I also deepen my knowledge in JavaScript and React. 
+Open to interesting projects.
 
 ### Skills
 
