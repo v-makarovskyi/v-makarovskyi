@@ -2,7 +2,7 @@
   Hi there 👋 I'm Volodymyr Makarovskyi
 </h3>
 
-I am a junior python/django developer from Kiev (Ukraine)
+I am a python/django developer from Kiev (Ukraine)
 
 
 ### 📫 How to reach me:
