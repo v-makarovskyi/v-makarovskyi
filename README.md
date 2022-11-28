@@ -12,7 +12,7 @@ I am a python/django developer from Kiev (Ukraine)
 
 ### Development 
 
-I am a junior python/django developer from Kiev (Ukraine)
+I am python/django developer from Kiev (Ukraine)
 I actively study and practice Python programming language and Django framework.
 I also deepen my knowledge in JavaScript and React. 
 Open to interesting projects.
